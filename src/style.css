@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+   background: linear-gradient(0deg, rgb(198, 223, 243), rgb(116,152,169) 60%,rgb(62,106,125))
+}
+.draw {
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
